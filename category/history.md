@@ -2,6 +2,18 @@
 
 
 
+- 第1942天 (2024-08-09)  
+    - [js] [浏览器跨Tab页面通信有哪些方式？](https://github.com/haizlin/fe-interview/issues/5909)
+- 第1941天 (2024-08-08)  
+    - [js] [如何给Promise添加进度通知的功能？](https://github.com/haizlin/fe-interview/issues/5908)
+- 第1940天 (2024-08-07)  
+    - [js] [如何串行执行Promise?](https://github.com/haizlin/fe-interview/issues/5907)
+- 第1939天 (2024-08-06)  
+    - [js] [Promise与async和await有什么关系？](https://github.com/haizlin/fe-interview/issues/5906)
+- 第1938天 (2024-08-05)  
+    - [js] [使用promise实现，加载100张图片，每次最多同时加载5张图片](https://github.com/haizlin/fe-interview/issues/5905)
+- 第1937天 (2024-08-04)  
+    - [js] [setTimeout和setImmediate哪个先执行？](https://github.com/haizlin/fe-interview/issues/5904)
 - 第1936天 (2024-08-03)  
     - [js] [JavaScript中数组去重的方法有哪些？哪个性能好？](https://github.com/haizlin/fe-interview/issues/5903)
 - 第1935天 (2024-08-02)  
